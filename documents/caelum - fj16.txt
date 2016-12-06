@@ -1,0 +1,24 @@
+Java - Caelum fj16
+
+
+
+--- Trabalhando com dinheiro --- 
+
+Evitar double, utilizar Big Decimal - Decimação.
+
+
+--- Final ---
+
+Classe: Nunca poderá ter uma filha (não pode ser extendida).
+
+Método: O método não pode ser reescrito (Override).
+
+Variavel: O valor da variavel nunca poderá ser alterado.
+			{Caso seja um atributo de uma classe, deverá ser inicializado no construtor uma vez que atributo de classe não final não são inicializadas com valor default}
+
+
+--- Imutabilidade de Objetos ---
+
+
+
+
